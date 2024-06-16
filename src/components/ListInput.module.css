@@ -1,0 +1,9 @@
+.inputStyle {
+  margin: 10px;
+  outline: none;
+  width: 85%;
+  font-size: 20px;
+  border: 1px solid #aaaaaa;
+  border-radius: 5px;
+  padding: 5px;
+}
